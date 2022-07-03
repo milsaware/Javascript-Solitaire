@@ -1,5 +1,4 @@
 # Javascript Solitaire
-Solitaire game made using Javascript and CSS
 
 ## Demo
 The game can be demoed on CodePen by [clicking here](https://codepen.io/ozboware/full/QWmbpjM)
