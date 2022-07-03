@@ -3,6 +3,10 @@
 ## Demo
 The game can be demoed on CodePen by [clicking here](https://codepen.io/ozboware/full/QWmbpjM)
 
+Or it can be played on GitHub by [clicking here](https://ozboware.github.io/Javascript-Solitaire/)
+
+## Installation
+
 **No installation**
 
 Just open the index file in your browser to play.
