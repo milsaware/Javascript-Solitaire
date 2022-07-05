@@ -11,6 +11,12 @@ Or it can be played on GitHub by [clicking here](https://ozboware.github.io/Java
 
 Just open the index file in your browser to play.
 
+## Controls
+
+Drag and drop to move cards.
+
+Press **D** to deal a new hand
+
 ## Screenshots
 
 ![Javascript Solitaire Screenshot 1](https://user-images.githubusercontent.com/95859352/176996594-900c3b57-d397-485e-a431-3bce336320f3.png)
